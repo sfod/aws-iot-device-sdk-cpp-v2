@@ -8,17 +8,17 @@ GitHub: [https://github.com/aws/aws-iot-device-sdk-cpp-v2](https://github.com/aw
 
 ## API Reference
 
-* [Crt](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_crt.html)
-* [Discovery](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_discovery.html)
-* [Eventstreamrpc](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_eventstreamrpc.html)
-* [Greengrass](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_greengrass.html)
-* [Iot](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iot.html)
-* [Iotdevicecommon](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotdevicecommon.html)
-* [Iotdevicedefenderv1](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotdevicedefenderv1.html)
-* [Iotidentity](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotidentity.html)
-* [Iotjobs](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotjobs.html)
-* [Iotsecuretunneling](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotsecuretunneling.html)
-* [Iotshadow](https://aws.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotshadow.html)
+* [Crt](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_crt.html)
+* [Discovery](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_discovery.html)
+* [Eventstreamrpc](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_eventstreamrpc.html)
+* [Greengrass](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_greengrass.html)
+* [Iot](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iot.html)
+* [Iotdevicecommon](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotdevicecommon.html)
+* [Iotdevicedefenderv1](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotdevicedefenderv1.html)
+* [Iotidentity](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotidentity.html)
+* [Iotjobs](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotjobs.html)
+* [Iotsecuretunneling](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotsecuretunneling.html)
+* [Iotshadow](https://sfod.github.io/aws-iot-device-sdk-cpp-v2/namespace_aws_1_1_iotshadow.html)
 
 ## AWS Crt C++
 
